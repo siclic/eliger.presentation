@@ -1,5 +1,5 @@
 ===============================================
-Plate-forme Régionale d’Innovation E-Liger
+La Plate-forme Régionale d’Innovation E-Liger
 ===============================================
 
 e-liger est une Plate-forme Régionale d’Innovation soutenue par la 
@@ -28,7 +28,7 @@ intercommunalités de moins de 25000 habitants et permettant de :
 
 * Faciliter le travail des agents territoriaux
 
-* Remonter des informations pertinentes et qualitatives aux élus pour décider en toute farisérénité.
+* Remonter des informations pertinentes et qualitatives aux élus pour décider en toute sérénité.
 
 * Contribuer à l’amélioration de la relation citoyenne
 
